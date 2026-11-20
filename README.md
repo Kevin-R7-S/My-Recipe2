@@ -52,7 +52,7 @@
 
 **Los Frescos:**
 - [ ] 2 rodajas de tomate
-- [ ] 2 hojas de lechuga (lavada y crujiente)
+- [ ] 2 hojas de lechuga (lavada, seca y crujiente)
 
 **Los Toques Finales:**
 - [ ] Sal y pimienta al gusto
@@ -62,16 +62,16 @@
 
 ### 🍳 Instrucciones Paso a Paso
 
-1. **🥓 El toque crujiente:** En un sartén a fuego medio, cocina las rebanadas de tocineta hasta que estén bien doradas. Retíralas y resérvalas sobre papel absorbente.
-2. **🥩 La carne perfecta:** En el mismo sartén, cocina la carne (previamente sazonada con sal y pimienta) por unos 3 a 4 minutos de cada lado.
-3. **🧀 Magia derretida:** Cuando falte 1 minuto para sacar la carne, ponle encima el jamón y el queso cheddar. Tapa el sartén brevemente para que el queso se funda a la perfección.
-4. **🍞 Pan doradito:** Unta un poco de mantequilla en las caras internas del pan y tuéstalo ligeramente en un sartén o plancha. ¡Esto evitará que el pan se rompa con las salsas!
+1. **🥓 El toque crujiente:** En un sartén a fuego medio, cocina las rebanadas de tocineta por unos 2 o 3 minutos por lado hasta que estén bien doradas y crujientes. Retíralas y resérvalas sobre papel absorbente para quitar el exceso de grasa.
+2. **🥩 La carne perfecta:** Sazona la carne con sal y pimienta justo antes de cocinarla (sin aplastarla con la espátula para conservar sus jugos). En el mismo sartén a fuego medio-alto, cocínala por unos 3 a 4 minutos de cada lado según el término que prefieras.
+3. **🧀 Magia derretida:** Cuando falte 1 minuto para sacar la carne, ponle encima el jamón y el queso cheddar. Tapa el sartén brevemente durante 30 a 45 segundos para que el queso se funda a la perfección.
+4. **🍞 Pan doradito:** Unta una capa fina de mantequilla en las caras internas del pan y tuéstalo ligeramente en un sartén o plancha por unos 30 a 60 segundos. ¡Esto sella la miga y evita que el pan se rompa o ablande con las salsas!
 5. **🍔 El gran armado:** 
    - Unta las salsas en la tapa inferior del pan.
-   - Haz una "cama" con la lechuga y el tomate.
-   - Coloca la carne con el queso y el jamón.
+   - Haz una base seca con la lechuga (para que el tomate no humedezca el pan) y pon encima las rodajas de tomate.
+   - Coloca la carne caliente con el queso y el jamón.
    - Corona con la tocineta crujiente.
-6. **🎉 ¡A comer!:** Ponle la tapa al pan y disfruta de tu creación.
+6. **🎉 ¡A comer!:** Ponle la tapa superior al pan, presiona suavemente y disfruta tu hamburguesa recién hecha.
 
 ---
 *Documentado con ❤️ por [Usxg4](https://github.com/Usxg4)*
